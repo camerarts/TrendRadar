@@ -1,6 +1,9 @@
 股市
 a股
 股民
+纳斯达克
+纳指ETF
+ETF
 
 特斯拉
 马斯克
@@ -14,27 +17,26 @@ AMD
 谷歌
 google
 gemini
-
 chatgpt
 openai
 sora
+ai
+!gai
+人工智能
+机器人
 
 iphone
 ipad
 mac
 ios
 
-ai
-!gai
-人工智能
-机器人
-
-国产
-中国
-
 美国
 日本
 韩国
+新加坡
+马拉西亚
+新西兰
+澳大利亚
 
 芯片
 光刻机
