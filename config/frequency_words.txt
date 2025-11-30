@@ -16,6 +16,8 @@ NVIDIA
 AMD
 谷歌
 google
+gemini 3
+nano banana
 gemini
 chatgpt
 openai
@@ -24,6 +26,7 @@ ai
 !gai
 人工智能
 机器人
+智能应用
 
 iphone
 ipad
@@ -41,7 +44,4 @@ ios
 芯片
 光刻机
 
-科技
-核能
 
-新质生产力
